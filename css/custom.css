@@ -574,13 +574,13 @@ textarea:focus::placeholder{
 	height: 588px;
 }
 .banner-outer .slide1 {
-	background: url(../images/banner1.jpg) no-repeat center top / cover;
+	background: url(https://cdn.rawgit.com/KhanhCF2023/MTU/main/images/banner1.jpg) no-repeat center top / cover;
 }
 .banner-outer .slide2 {
-	background: url(../images/banner2.png) no-repeat center top / cover;
+	background: url(https://cdn.rawgit.com/KhanhCF2023/MTU/main/images/banner2.jpg) no-repeat center top / cover;
 }
 .banner-outer .slide3 {
-	background: url(../images/banner3.png) no-repeat center top / cover;
+	background: url(https://cdn.rawgit.com/KhanhCF2023/MTU/main/images/banner3.jpg) no-repeat center top / cover;
 }
 .banner-outer .content {
 	display: table-cell;
@@ -711,7 +711,7 @@ textarea:focus::placeholder{
 	display: block;
 	position: relative;
 	padding: 222px 0 100px 0;
-	background: url(../images/about-bg.jpg) no-repeat center bottom;
+	background: url(https://cdn.rawgit.com/KhanhCF2023/MTU/main/images/about-bg.jpg) no-repeat center bottom;
 }
 .about ul.our-links {
 	display: block;
@@ -7313,4 +7313,8 @@ a.btn-circle:hover {
 	.coming-soon .right ul li {
  		padding: 0 8px;
 	}
+}
+
+.wrapper {
+	width: 100% !important;
 }
