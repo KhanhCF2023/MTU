@@ -585,6 +585,7 @@ textarea:focus::placeholder{
 .banner-outer .content {
 	display: table-cell;
 	vertical-align: middle;
+	background: transparent;
 }
 .banner-slider .content .fl-right {
 	float: right;
@@ -7313,8 +7314,4 @@ a.btn-circle:hover {
 	.coming-soon .right ul li {
  		padding: 0 8px;
 	}
-}
-
-.wrapper {
-	width: 100% !important;
 }
