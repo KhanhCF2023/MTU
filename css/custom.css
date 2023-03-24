@@ -930,7 +930,7 @@ textarea:focus::placeholder{
 }
 .our-cources {
 	display: block;
-    background: url(../images/cources-bg.jpg) no-repeat center top / cover;
+    background: url(https://cdn.rawgit.com/KhanhCF2023/MTU/main/images/cources-bg.jpg) no-repeat center top / cover;
 	position: relative;
 }
 .our-cources:after {
@@ -960,7 +960,7 @@ textarea:focus::placeholder{
 }
 .our-cources ul.course-list li {
 	display: block;
-	background: url(../images/book-bg.png) no-repeat center top;
+	background: url(https://cdn.rawgit.com/KhanhCF2023/MTU/main/images/book-bg.png) no-repeat center top;
 	position: relative;
 }
 .our-cources ul.course-list li:after {
@@ -1223,7 +1223,7 @@ textarea:focus::placeholder{
 	why choose
 -----------------------*/
 .why-choose {
-    background: url(../images/why-choose-bg.png) no-repeat center center / cover;
+    background: url(https://cdn.rawgit.com/KhanhCF2023/MTU/main/images/why-choose-bg.png) no-repeat center center / cover;
 	position: relative;
 }
 .why-choose:after {
@@ -1559,7 +1559,7 @@ ul.our-strength li .title {
 	height: 38px;
 	display: block;
 	content: "";
-	background: url(../images/popup-arrows.png) no-repeat center bottom;
+	background: url(https://cdn.rawgit.com/KhanhCF2023/MTU/main/images/popup-arrows.png) no-repeat center bottom;
 }
 .mfp-arrow-left:before {
 	background-position: left top;
@@ -1572,7 +1572,7 @@ ul.our-strength li .title {
 	padding-right: 0px;
 	display: block;
 	cursor: pointer;
-	background: url(../images/popup-close.png) no-repeat center top;
+	background: url(https://cdn.rawgit.com/KhanhCF2023/MTU/main/images/popup-close.png) no-repeat center top;
 	text-indent: 100%;
 	white-space: nowrap;
 	overflow: hidden;
@@ -1601,7 +1601,7 @@ ul.our-strength li .title {
 -----------------------*/
 .testimonial {
 	display: block;
-    background: url(../images/testimonial-bg.jpg) no-repeat center top / cover;
+    background: url(https://cdn.rawgit.com/KhanhCF2023/MTU/main/images/testimonial-bg.jpg) no-repeat center top / cover;
 	text-align: center;
 	position: relative;
 }
@@ -2427,7 +2427,7 @@ ul.our-strength.opt2 li .title {
 }
 .about-video {
 	width: 100%;
-	background: url(../images/about-video-bg.jpg) no-repeat center top / cover;
+	background: url(https://cdn.rawgit.com/KhanhCF2023/MTU/main/images/about-video-bg.jpg) no-repeat center top / cover;
 	text-align: center;
 	position: relative;
 }
@@ -2485,7 +2485,7 @@ ul.our-strength.opt2 li .title {
 	height: 36px;
 	display: block;
 	text-indent: -9999px;
-	background: url(../images/popup-close-btn.jpg) no-repeat center top;
+	background: url(https://cdn.rawgit.com/KhanhCF2023/MTU/main/images/popup-close-btn.jpg) no-repeat center top;
 }
 .modal {
 	z-index: 99999;
@@ -2501,7 +2501,7 @@ ul.our-strength.opt2 li .title {
 	display: block;
 	padding: 60px 0;
 	min-height: 290px;
-	background: url(../images/inner-banner-bg.jpg) no-repeat center top / cover;
+	background: url(https://cdn.rawgit.com/KhanhCF2023/MTU/main/images/inner-banner-bg.jpg) no-repeat center top / cover;
 }
 .inner-banner .content {
 	max-width: 392px;
@@ -2682,7 +2682,7 @@ a.download-cert:hover {
 	background: rgba(255, 255, 255, 0.2);
 }
 .our-cources.sub {
-	background: url(../images/cources-bg1.jpg) no-repeat center top / cover;
+	background: url(https://cdn.rawgit.com/KhanhCF2023/MTU/main/images/cources-bg1.jpg) no-repeat center top / cover;
 }
 .our-cources.sub h2 {
 	padding-left: 32px;
@@ -2791,13 +2791,13 @@ ul.browse-teachers-list figure:before {
 	left: 0px;
 	right: 0px;
 	top: 0px;
-	background: url(../images/teacher-overlay-bg.png) no-repeat center top;
+	background: url(https://cdn.rawgit.com/KhanhCF2023/MTU/main/images/teacher-overlay-bg.png) no-repeat center top;
 }
 .browse-teacher.grey-bg ul.browse-teachers-list figure:before {
-	background: url(../images/teacher-overlay-bg-grey.png) no-repeat center top;
+	background: url(https://cdn.rawgit.com/KhanhCF2023/MTU/main/images/teacher-overlay-bg-grey.png) no-repeat center top;
 }
 .details-tab ul.browse-teachers-list figure:before {
-	background: url(../images/teacher-overlay-bg-tab.png) no-repeat center top;
+	background: url(https://cdn.rawgit.com/KhanhCF2023/MTU/main/images/teacher-overlay-bg-tab.png) no-repeat center top;
 }
 ul.browse-teachers-list h3 {
 	font-family: 'Roboto';
@@ -3286,7 +3286,7 @@ ul.cert-list li span {
 	position: absolute;
 	right: -120px;
 	top: 86px;
-	background: url(../images/dotted-arrow.png) no-repeat left top;
+	background: url(https://cdn.rawgit.com/KhanhCF2023/MTU/main/images/dotted-arrow.png) no-repeat left top;
 	z-index: -1;
 }
 .how-apply ul li:nth-child(2):after {
@@ -3297,7 +3297,7 @@ ul.cert-list li span {
 	position: absolute;
 	right: -122px;
 	top: 32px;
-	background: url(../images/dotted-arrow1.png) no-repeat left top;
+	background: url(https://cdn.rawgit.com/KhanhCF2023/MTU/main/images/dotted-arrow1.png) no-repeat left top;
 	z-index: -1;
 }
 .how-apply ul li .icon-block {
@@ -4092,7 +4092,7 @@ ul.blog-listing.detail > li {
 	max-width: 480px;
 	margin: 130px auto;
 	padding: 240px 0 0 0;
-	background: url(../images/404-img.png) no-repeat center top / 100%;
+	background: url(https://cdn.rawgit.com/KhanhCF2023/MTU/main/images/404-img.png) no-repeat center top / 100%;
 	text-align: center;
 }
 .not-found-wrapper h1 {
@@ -4275,7 +4275,7 @@ ul.faq-listing li h2 {
 /* 16. login page */
 /* ================================================== */
 .fill-bg {
-    background: url(../images/login-bg.jpg) no-repeat center center / cover;
+    background: url(https://cdn.rawgit.com/KhanhCF2023/MTU/main/images/login-bg.jpg) no-repeat center center / cover;
     background-attachment: fixed;
 }
 .fill-bg:after {
@@ -4521,7 +4521,7 @@ ul.testimonials li:nth-child(3n):before {
 	height: 7px;
 	display: block;
 	content: "";
-	background: url(../images/testi-clip.png) no-repeat left top;
+	background: url(https://cdn.rawgit.com/KhanhCF2023/MTU/main/images/testi-clip.png) no-repeat left top;
 	position: absolute;
 	bottom: -4px;
 }
@@ -5168,7 +5168,7 @@ a.btn-circle:hover {
 .coming-soon .right{ 
 	height: 100vh;
 	display:table; 
-	background: url(../images/coming-soon-bg.jpg) no-repeat center top / cover;
+	background: url(https://cdn.rawgit.com/KhanhCF2023/MTU/main/images/coming-soon-bg.jpg) no-repeat center top / cover;
 	text-align:center;
 	position: relative;
 	color:#fff;
