@@ -551,6 +551,34 @@ textarea:focus::placeholder{
 	color: #fff;
 }
 
+.navbar .dropdown-menu > li:hover .dropdown-menu-child  {
+	display: block;
+}
+
+.navbar .dropdown-menu-child {
+	display: none;
+	position: absolute;
+	top: -4px;
+	left: 100%;
+	min-height: calc(100% + 4px);
+	background: white;
+	border-top: 4px #ff0000 solid;
+}
+
+.navbar .dropdown-menu-child a {
+
+	display: block;
+	padding: 5px 12px;
+	color: black;
+	white-space: nowrap;
+}
+
+.navbar .dropdown-menu-child a:focus,
+.navbar .dropdown-menu-child a:hover {
+	background: #ff9600;
+	color: #fff;
+}
+
 /* ================================================== */
 /* 04. home page sections */
 /* ================================================== */
@@ -569,9 +597,22 @@ textarea:focus::placeholder{
 }
 .banner-outer .slide1, 
 .banner-outer .slide2, 
-.banner-outer .slide3 {
+.banner-outer .slide3,
+.banner-outer .slide4 {
 	display: block;
 	height: 588px;
+	position: relative;
+}
+
+.banner-outer .slide1:before, 
+.banner-outer .slide2:before, 
+.banner-outer .slide3:before,
+.banner-outer .slide4:before {
+	content: '';
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, 0.25);
 }
 .banner-outer .slide1 {
 	background: url(https://cdn.rawgit.com/KhanhCF2023/MTU/main/images/banner1.jpg) no-repeat center top / cover;
@@ -581,6 +622,9 @@ textarea:focus::placeholder{
 }
 .banner-outer .slide3 {
 	background: url(https://cdn.rawgit.com/KhanhCF2023/MTU/main/images/banner3.jpg) no-repeat center top / cover;
+}
+.banner-outer .slide4 {
+	background: url(https://cdn.rawgit.com/KhanhCF2023/MTU/main/images/banner4.jpg) no-repeat center top / cover;
 }
 .banner-outer .content {
 	display: table-cell;
@@ -634,7 +678,9 @@ textarea:focus::placeholder{
 	color: #db1d1d;
 }
 .banner-outer .slide3 .content h1, 
-.banner-outer .slide3 .content p {
+.banner-outer .slide3 .content p,
+.banner-outer .slide4 .content h1, 
+.banner-outer .slide4 .content p {
 	color: #fae000;
 }
 .btn {
